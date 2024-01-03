@@ -2,4 +2,4 @@
 
 ## Links
 
-- [Open Notebook in Colab]
+- [Open Notebook in Colab]()
